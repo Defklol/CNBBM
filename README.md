@@ -7,3 +7,10 @@
 Design and Implement of Improve Cluster Network Based on Bluetooth Mesh : A Case Study of Campus SOS System
 
 將Bluetooth Mesh的Flooding路由改成Clustering架構
+
+Project Path : nRF5-SDK-for-Mesh-master/examples/Clustering_Network
+
+provisioner_and_Base_Station : Provisioner + Client
+node : Server
+
+Use S132 to program.

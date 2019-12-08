@@ -1,0 +1,69 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="171" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="222" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="475" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="478" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="744" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Application"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Bearer"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Configuration Model"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Core"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Health Model"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Mesh stack"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;Model"/>
+  <ProjectSessionItem path="battery_proxy_node_nrf52832_xxAA_s132_6.0.0;battery_proxy_node_nrf52832_xxAA_s132_6.0.0;nRF5 SDK"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="140" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="521" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="78" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/src/simple_battery_client.c" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="190" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/src/emergency_help_client.c" selected="0" top="180" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="481" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/health/src/health_server.c" selected="0" top="458" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="152" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/stack/src/mesh_stack.c" selected="0" top="133" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1394" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/config/src/config_server.c" selected="0" top="1363" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="161" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_15.0.0_a53641a/components/libraries/uart/app_uart_fifo.c" selected="0" top="139" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="91" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_15.0.0_a53641a/components/libraries/fifo/app_fifo.c" selected="0" top="77" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="105" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_15.0.0_a53641a/integration/nrfx/legacy/nrf_drv_uart.c" selected="0" top="83" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="40" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/include/simple_battery_client.h" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="61" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/bearer/api/advertiser.h" selected="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="341" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/nrf_mesh.c" selected="0" top="301" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="378" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/bearer/src/advertiser.c" selected="0" top="347" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="battery_proxy_node_nrf52832_xxAA_s132_6.0.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

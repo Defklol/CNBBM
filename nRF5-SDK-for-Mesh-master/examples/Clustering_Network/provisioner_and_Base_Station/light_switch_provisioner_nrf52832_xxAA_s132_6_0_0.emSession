@@ -1,0 +1,72 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="1353" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../models/config/src/config_server.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="608" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="734" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="777" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="86" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="151" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/node_setup.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="420" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/node_setup.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="959" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/node_setup.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="198" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/provisioner_helper.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;light_switch_provisioner_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;Application"/>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;Battery Model"/>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;Bearer"/>
+  <ProjectSessionItem path="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;light_switch_provisioner_nrf52832_xxAA_s132_6.0.0;EMH Model"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="735" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="723" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="168" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/network.c" selected="0" top="124" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="70" useTextEdit="1" useBinaryEdit="0" left="0" path="../include/light_switch_example_common.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="60" useTextEdit="1" useBinaryEdit="0" left="0" path="include/example_network_config.h" selected="0" top="32" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="83" useTextEdit="1" useBinaryEdit="0" left="0" path="include/nrf_mesh_config_app.h" selected="0" top="71" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="104" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_15.0.0_a53641a/components/libraries/timer/app_timer.h" selected="0" top="90" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="304" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/bearer/src/advertiser.c" selected="0" top="257" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="842" useTextEdit="1" useBinaryEdit="0" left="0" path="src/node_setup.c" selected="0" top="820" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="84" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/msg_cache.c" selected="0" top="69" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="69" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access.c" selected="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="74" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/src/simple_battery_server.c" selected="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="210" useTextEdit="1" useBinaryEdit="0" left="0" path="src/provisioner_helper.c" selected="0" top="174" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="46" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access_status.h" selected="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="105" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/src/emergency_help_server.c" selected="0" top="78" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="84" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/include/emergency_help_common.h" selected="0" top="57" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/include/emergency_help_server.h" selected="0" top="69" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="light_switch_provisioner_nrf52832_xxAA_s132_6.0.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/C217-1/Desktop/Nordic Mesh/nRF5_SDK_15.0.0_a53641a/integration/nrfx/legacy" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

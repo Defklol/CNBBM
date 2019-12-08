@@ -1,0 +1,61 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="319" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="446" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="src/main.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;Application"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;Core"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;Mesh stack"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;Model"/>
+  <ProjectSessionItem path="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;battery_proxy_bs_nrf52832_xxAA_s132_6.0.0;nRF5 SDK"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="107" y="159" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" selected="0" top="136" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="84" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/msg_cache.c" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="80" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/src/emergency_help_server.c" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" useBinaryEdit="0" left="0" path="../include/light_switch_example_common.h" selected="0" top="47" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="222" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../nRF5_SDK_15.0.0_a53641a/components/libraries/uart/app_uart.h" selected="0" top="200" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="97" y="72" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/src/simple_battery_server.c" selected="1" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="121" y="58" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/include/simple_battery_server.h" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="110" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/simple_battery/include/simple_battery_common.h" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/emergency_help/include/emergency_help_server.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="198" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access.h" selected="0" top="188" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="362" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/api/nrf_mesh.h" selected="0" top="340" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="battery_proxy_bs_nrf52832_xxAA_s132_6.0.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
